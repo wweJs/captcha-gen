@@ -1,4 +1,4 @@
-# Powerful captcha captcha generator written in python.
+# Powerful generator written in python.
 ## You can generate captchas based on your text, and you can also generate random captchas
 
 
